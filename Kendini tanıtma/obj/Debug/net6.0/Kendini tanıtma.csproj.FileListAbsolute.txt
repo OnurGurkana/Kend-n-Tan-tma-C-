@@ -1,0 +1,15 @@
+C:\Users\WT-OGRENCI-01\Desktop\Kendini tanıtma\bin\Debug\net6.0\Kendini tanıtma.exe
+C:\Users\WT-OGRENCI-01\Desktop\Kendini tanıtma\bin\Debug\net6.0\Kendini tanıtma.deps.json
+C:\Users\WT-OGRENCI-01\Desktop\Kendini tanıtma\bin\Debug\net6.0\Kendini tanıtma.runtimeconfig.json
+C:\Users\WT-OGRENCI-01\Desktop\Kendini tanıtma\bin\Debug\net6.0\Kendini tanıtma.dll
+C:\Users\WT-OGRENCI-01\Desktop\Kendini tanıtma\bin\Debug\net6.0\Kendini tanıtma.pdb
+C:\Users\WT-OGRENCI-01\Desktop\Kendini tanıtma\obj\Debug\net6.0\Kendini tanıtma.csproj.AssemblyReference.cache
+C:\Users\WT-OGRENCI-01\Desktop\Kendini tanıtma\obj\Debug\net6.0\Kendini tanıtma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WT-OGRENCI-01\Desktop\Kendini tanıtma\obj\Debug\net6.0\Kendini tanıtma.AssemblyInfoInputs.cache
+C:\Users\WT-OGRENCI-01\Desktop\Kendini tanıtma\obj\Debug\net6.0\Kendini tanıtma.AssemblyInfo.cs
+C:\Users\WT-OGRENCI-01\Desktop\Kendini tanıtma\obj\Debug\net6.0\Kendini tanıtma.csproj.CoreCompileInputs.cache
+C:\Users\WT-OGRENCI-01\Desktop\Kendini tanıtma\obj\Debug\net6.0\Kendini tanıtma.dll
+C:\Users\WT-OGRENCI-01\Desktop\Kendini tanıtma\obj\Debug\net6.0\refint\Kendini tanıtma.dll
+C:\Users\WT-OGRENCI-01\Desktop\Kendini tanıtma\obj\Debug\net6.0\Kendini tanıtma.pdb
+C:\Users\WT-OGRENCI-01\Desktop\Kendini tanıtma\obj\Debug\net6.0\Kendini tanıtma.genruntimeconfig.cache
+C:\Users\WT-OGRENCI-01\Desktop\Kendini tanıtma\obj\Debug\net6.0\ref\Kendini tanıtma.dll
